@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  /* Gradient Theme - Purple-Blue to Cyan */
+  --color-primary: #6078EA;        /* Purple-blue */
+  --color-secondary: #17EAD9;      /* Cyan/turquoise */
+  --color-accent: #10B981;         /* Green for success */
+  --color-danger: #EF4444;
+  --color-success: #10B981;
+  --color-warning: #F59E0B;
+  
+  /* Background & Surfaces */
+  --color-background: #FFFFFF;
+  --color-surface: #F8FAFC;
+  --color-surface-hover: #F1F5F9;
+  
+  /* Text Colors */
+  --color-text: #0F172A;
+  --color-text-secondary: #64748B;
+  --color-text-muted: #94A3B8;
+  
+  /* Borders */
+  --color-border: #E2E8F0;
+  --color-border-hover: #CBD5E1;
+  
+}
